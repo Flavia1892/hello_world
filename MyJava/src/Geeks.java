@@ -1,7 +1,7 @@
 import java.io.*; 
 import java.util.*;
 import java.lang.*;
-
+// This is a comment 
 interface iOne{
 	public int get();
 	public int getB();
